@@ -12,7 +12,7 @@ Animal Tales Kids is a fun learning app for young children that includes:
 
 If you have any questions, feedback, or technical issues, please contact us:
 
-**Email:** support@animaltaleskids.com
+**Email:** support@online247now.cpom
 
 We aim to respond within 3 business days.
 
