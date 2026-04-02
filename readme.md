@@ -15,7 +15,7 @@ Use this file set to publish a GitHub Pages support URL for App Store Connect.
 
 Your support URL will look like:
 
-`https://YOUR_GITHUB_USERNAME.github.io/animal-tales-kids-support/`
+`https://sukheshcs.github.io/animal-tales-kids-support/`
 
 ## Important
 
